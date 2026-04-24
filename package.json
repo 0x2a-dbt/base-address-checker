@@ -1,0 +1,12 @@
+{
+  "name": "base-address-checker",
+  "version": "1.0.0",
+  "description": "A tiny utility to check whether a string looks like a valid EVM/Base wallet address.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["base", "evm", "wallet", "address-checker"],
+  "author": "",
+  "license": "MIT"
+}
